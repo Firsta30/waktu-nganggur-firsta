@@ -106,7 +106,7 @@ ax.set_xlim(-1.5, 1.5)
 ax.set_ylim(-1.5, 1.5)
 ax.axis('off')
 
-plt.title("Jadwal Menganggur Namamu", fontsize=16, fontweight='bold', fontfamily='serif', style='italic')
+plt.title("Jadwal Menganggur Firsta", fontsize=16, fontweight='bold', fontfamily='serif', style='italic')
 plt.text(0, 1.40, "TODAY'S TIME TABLE",
          ha='center', va='center', fontsize=10, bbox=dict(facecolor='white', edgecolor='none', pad=2))
 plt.show()
